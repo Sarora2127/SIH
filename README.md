@@ -1,2 +1,2 @@
 # JUSTICEPALS
- For SIH hackathon, PS Code-SIH12881
+ For SIH hackathon, PS Code-SIH1281
