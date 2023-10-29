@@ -1,0 +1,175 @@
+.background1Icon {
+  position: absolute;
+  top: 242px;
+  left: 1px;
+  width: 1438px;
+  height: 481px;
+  object-fit: cover;
+}
+.groupIcon {
+  position: absolute;
+  top: calc(50% - 512px);
+  left: calc(50% - 720px);
+  width: 1439.19px;
+  height: 1081.59px;
+}
+.pals {
+  color: var(--color-chocolate);
+}
+.justicepals {
+  position: relative;
+  line-height: 30.86px;
+}
+.groupChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 25.17px;
+  background-color: var(--color-lightblue);
+}
+.home {
+  position: absolute;
+  top: 25.83%;
+  left: 20.91%;
+}
+.rectangleParent {
+  position: relative;
+  width: 110px;
+  height: 50.33px;
+}
+.groupItem {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 25.17px;
+  background-color: var(--color-whitesmoke);
+}
+.profile {
+  position: absolute;
+  top: 25.83%;
+  left: 16.8%;
+}
+.rectangleGroup {
+  position: relative;
+  width: 125px;
+  height: 50.33px;
+}
+.contactUs,
+.work {
+  position: absolute;
+  top: 25.83%;
+  left: 20%;
+}
+.contactUs {
+  width: 82.93%;
+  left: 8.54%;
+  display: inline-block;
+}
+.groupDiv {
+  position: relative;
+  width: 164px;
+  height: 50.33px;
+}
+.groupParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.menu,
+.profile1 {
+  position: relative;
+}
+.menu {
+  width: 581px;
+  height: 50.33px;
+  display: none;
+  font-size: 24.16px;
+  color: var(--color-steelblue);
+}
+.profile1 {
+  line-height: 24px;
+}
+.iconoutlinearrowRight {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.button,
+.ctaButton,
+.icon {
+  align-items: center;
+  justify-content: center;
+}
+.icon {
+  display: none;
+  flex-direction: row;
+}
+.button,
+.ctaButton {
+  display: flex;
+}
+.button {
+  flex-direction: row;
+  gap: var(--gap-4xs);
+}
+.ctaButton {
+  border-radius: var(--br-10xs);
+  background-color: var(--color-gray-100);
+  height: 50px;
+  flex-direction: column;
+  padding: var(--padding-base) var(--padding-xl);
+  box-sizing: border-box;
+  text-align: right;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-neutral-face);
+}
+.dfawdaIcon,
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.header {
+  background-color: var(--color-gray-200);
+  backdrop-filter: blur(24px);
+  width: 1440px;
+  height: 80px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--padding-77xl) 0 var(--padding-21xl);
+  box-sizing: border-box;
+}
+.dfawdaIcon {
+  width: 1592.4px;
+  height: 1080px;
+  object-fit: cover;
+}
+.desktop5 {
+  position: relative;
+  background-color: var(--color-lavender);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-newake);
+}
